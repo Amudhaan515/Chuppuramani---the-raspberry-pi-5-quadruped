@@ -1,4 +1,4 @@
-## The mini project - CHUPPURAMANI - the mini quadruped using Raspberry pi 5
+## The mini project - CHUPPURAMANI - a mini quadruped using Raspberry pi 5
 
 # Components used:
 -> Raspberry pi 5
